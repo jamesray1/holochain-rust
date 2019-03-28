@@ -5,6 +5,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 ## [Unreleased]
 
 ### Added
+- Adds hdk access to keystore [#1148](https://github.com/holochain/holochain-rust/pull/1148)
 
  - Adds Makefile Native and Nix (nix-shell) build environment targets [#1168](https://github.com/holochain/holochain-rust/pull/1168)
 
